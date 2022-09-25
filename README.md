@@ -43,10 +43,11 @@ Para exibir arquivos ocultos por exemplo quando criamos o nosso repositório tin
 Depois:
 
 <h4> cd .git </h4>
+<hr>
 
 Para ver o status dos arquivos do meu Projeto:
 
-<hr>
+
 
 
 
