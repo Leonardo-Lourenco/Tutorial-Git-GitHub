@@ -12,8 +12,26 @@ Para você que não sabe nada de Git e Github, está é a oportunidade de ficar 
 
 <hr>
 
-Para configurar o GitHub o usuário do GitHub no Computador:
+Para configurar  o usuário do GitHub no Computador:
 
 <h4> git config --global user.name "nome seu no GitHub" </h4>
 <h4> git config --global user.email "seu email do GitHub" </h4>
   
+<br>
+
+Criando arquivo via terminal:
+
+<h4> touch ( nome do arquivo  ) </h4>
+
+<br>
+
+Para remover: 
+
+<h4> rm ( nome do arquivo ) </h4>
+
+<br>
+
+Iniciando o GIT, na pasta ao qual vou trabalhar no computador:
+
+<h4> git init </h4> 
+
