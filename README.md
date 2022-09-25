@@ -18,6 +18,7 @@ Para configurar  o usuário do GitHub no Computador:
 <h4> git config --global user.email "seu email do GitHub" </h4>
   
 <br>
+<hr>
 
 Criando arquivo via terminal:
 
@@ -34,4 +35,21 @@ Para remover:
 Iniciando o GIT, na pasta ao qual vou trabalhar no computador:
 
 <h4> git init </h4> 
+
+Para exibir arquivos ocultos por exemplo quando criamos o nosso repositório tinha um arquivo com o nome de: .git
+
+<h4> ls -a </h4>
+
+Depois:
+
+<h4> cd .git </h4>
+
+Para ver o status dos arquivos do meu Projeto:
+
+<hr>
+
+
+
+
+
 
