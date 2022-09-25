@@ -66,11 +66,34 @@ Depois:
 
 <h4> git status </h4>
 
+<br>
+
 Caso eu faça errado, adicione o arquivo errado, para desfazer:
 
 <h4> git rm –cached ( nome do arquivo ) depois git status </h4>
 
  
+<br>
+
+Dando o commit em todos os arquivos do repositório:
+
+<h4> git commit -m "Adicionado os arquivos no Repositório" </h4>
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
