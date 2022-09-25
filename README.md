@@ -8,4 +8,12 @@ Para você que não sabe nada de Git e Github, está é a oportunidade de ficar 
 
 <br>
 
-<h4> git config --global --list  </h4> Para ver o usuário configurado na máquina
+<h4> git config --global --list  </h4>  para ver o usuário configurado na máquina
+
+<hr>
+
+Para configurar o GitHub o suário do GitHub no Computador:
+
+<h4> git config --global user.name "nome seu no GitHub" </h4>
+<h4> git config --global user.email "seu email do Gitub" </h4>
+  
