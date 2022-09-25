@@ -4,4 +4,4 @@ Abordaremos conceitos e práticas essenciais de Git e Github, como: o que é Git
 Para você que não sabe nada de Git e Github, está é a oportunidade de ficar por dentro.
 
 <hr>
-<h4> git-version</h4>  para ver a versão do GitHub instalada no seu computador
+<li><h4> git-version</h4></li>  para ver a versão do GitHub instalada no seu computador
