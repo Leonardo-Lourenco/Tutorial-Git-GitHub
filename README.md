@@ -81,6 +81,16 @@ Dando o commit em todos os arquivos do repositório:
 
 <br>
 
+Para ver o histórico dos commits:
+
+<h4> git log  </h4>
+
+<br>
+
+ou para exibir de forma resumida:
+
+<h4> git log –oneline  </h1>
+ 
 
 
 
