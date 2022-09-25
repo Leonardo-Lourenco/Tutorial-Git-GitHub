@@ -45,12 +45,32 @@ Depois:
 <h4> cd .git </h4>
 <hr>
 
+<br>
 Para ver o status dos arquivos do meu Projeto:
 
+<h4> git status </h4>
 
+<br>
+Para adicionar os arquivos:
 
+<h4> git add ( nome do arquivo ) </h4>
 
+<br>
+Para adicionar todos os arquivos do Projeto de uma vez:
 
+<h4> git add * </h4>
+
+<br>
+
+Depois: 
+
+<h4> git status </h4>
+
+Caso eu faça errado, adicione o arquivo errado, para desfazer:
+
+<h4> git rm –cached ( nome do arquivo ) depois git status </h4>
+
+ 
 
 
 
