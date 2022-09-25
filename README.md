@@ -5,3 +5,7 @@ Para você que não sabe nada de Git e Github, está é a oportunidade de ficar 
 
 <hr>
 <h4> git-version</h4>  para ver a versão do GitHub instalada no seu computador
+
+<br>
+
+<h4> git config --global --list  </h4> Para ver o usuário configurado na máquina
